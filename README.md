@@ -1,2 +1,2 @@
 # dummyrepo
-Test repo
+Not a test repo
